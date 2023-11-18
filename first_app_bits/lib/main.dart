@@ -56,7 +56,7 @@ class _TaskState extends State<Task> {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text("Cross Platform Assignment - Task App"),
+        title: Text("Cross Platform Assignment - Task App "),
         backgroundColor: Colors.blueGrey,
         centerTitle: true,
       ),
